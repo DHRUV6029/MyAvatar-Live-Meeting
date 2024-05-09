@@ -1,0 +1,9 @@
+{
+  "wssEndpoint": "[placeholder]",
+  "clientId": "[placeholder]",
+  "cognitoDomain": "[placeholder]",
+  "cloudfrontEndpoint": "[placeholder]",
+  "recordingDisclaimer": "Important: You are responsible for complying with legal, corporate, and ethical restrictions that apply to recording meetings and calls.",
+  "recordingMessage": "This meeting is being recorded with MyAvatar Live Meeting Assistant",
+  "stopRecordingMessage": "MyAvatar Live Meeting Assistant recording stopped."
+}
